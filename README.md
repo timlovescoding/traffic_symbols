@@ -1,4 +1,4 @@
-# Classifying Traffic Symbols
+# Classifying Traffic Symbols (43 different classes)
 
 - Coded and trained on Colaboratory (Deep CNN)
 
